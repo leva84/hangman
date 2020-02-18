@@ -5,7 +5,7 @@
 
    Ссысла на документацию по установке Ruby:
    
-    https://www.ruby-lang.org/ru/documentation/
+<a>https://www.ruby-lang.org/ru/documentation/</a>
 
 <h4>Так же необходимо установить gem Bundler и установить зависимость библиотек</h4>
 
